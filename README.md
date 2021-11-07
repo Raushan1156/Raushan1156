@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java awt,java swing ,Unix , Collection Framework (java)**
 
-- 📫 How to reach me **iamraushankumar56@gmail.com**
+- 📫 reach to me **iamraushankumar56@gmail.com**
 
 - ♟️ love to play in leisure time: **Chess**
 
