@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/raushan1156" target="blank"><img src="https://img.shields.io/twitter/follow/raushan1156?logo=twitter&style=for-the-badge" alt="raushan1156" /></a> </p>
 
-- 🌱 I’m currently strengthening **Android Development**
+- 🌱 I’m currently learning **Java as well as DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raushan1156](https://github.com/Raushan1156)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raushan1156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raushan1156" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/raushan1156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan1156" height="30" width="40" /></a>
 <a href="https://instagram.com/raushan.1156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raushan.1156" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/raushan1156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raushan1156" height="30" width="40" /></a>
