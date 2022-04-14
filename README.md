@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Native Android developer from India</h3>
+<h3 align="center">A Java developer from India</h3>
 
 
 
-<p align="left"> <a href="https://twitter.com/raushan1156" target="blank"><img src="https://img.shields.io/twitter/follow/raushan1156?logo=twitter&style=for-the-badge" alt="raushan1156" /></a> </p>
 
 - 🌱 I’m currently learning **Java as well as DSA**
 
