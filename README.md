@@ -19,7 +19,7 @@
 
  
   
-<a href="https://linkedin.com/in/raushan1156" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="raushan1156" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raushan1156" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="raushan1156" height="30" width="40" /></a>
 <a href="https://instagram.com/raushan.1156" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raushan.1156" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/raushan1156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raushan1156" height="30" width="40" /></a>
 <a href="https://discord.gg/Raushan1156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Raushan1156" height="30" width="40" /></a>
