@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan1156&label=Profile%20views&color=0e75b6&style=flat" alt="raushan1156" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 working on **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raushan1156](https://github.com/Raushan1156)
 
